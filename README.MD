@@ -1,6 +1,6 @@
 # Landin Page Clone Netflix
 
-Este projeto tem como objetivo criar uma landing page clone da Netflix. Esta landing page será usada para promover o serviço de streaming da Netflix e ajudar os usuários a descobrir novos conteúdos.
+Este projeto tem como objetivo criar uma landing page clone da Netflix.
 
 ## Recursos
 - Design responsivo para dispositivos móveis.
